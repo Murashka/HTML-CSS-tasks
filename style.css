@@ -1,0 +1,20 @@
+/*TOP SECTION*/
+.top {
+    margin: 0;
+    padding: 0px;
+}
+.container{
+    width:1170;
+    margin: auto;
+}
+.top {
+    display: flex;
+    justify-content: space-between;
+}
+.left-top, .right-top {
+    width: 210px;
+    height: 190px;
+    background:#B9C1C7;
+    text-align: center;
+    padding-top: 80px;
+    box-sizing: border-box;
